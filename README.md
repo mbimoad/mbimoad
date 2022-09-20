@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**mbimoad/mbimoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there How Are You? 👋 
+My Name is Muhammad BimoAdjie Dwintoro, Iam A student of Mandiri University Subang,
+Welcome To My Profile !
 
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning Javascript
