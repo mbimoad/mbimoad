@@ -5,8 +5,6 @@ Welcome To My Profile !
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning Python and Mvc
 - 📫 How to reach me: bimoadjie19@gmail.com
-- 💬 Ask me about Anything About Code
-- ⚡ Fun fact: Code is easy but don't be easier
 
 ### Here is my stats
 <p align="center">
@@ -15,4 +13,4 @@ Welcome To My Profile !
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbimoad&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
-🤔 No Code No life! 🤔
+Let's gooo!
