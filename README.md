@@ -1,5 +1,5 @@
 ### Hi there How Are You? 👋 
-My Name is Muhammad BimoAdjie Dwintoro, Iam A student of Mandiri University Subang,
+My Name is Muhammad BimoAdjie Dwintoro, Iam a Bachelor Of Computer Science student at Mandiri University,
 Welcome To My Profile !
 
 - 🔭 I’m currently working as Freelancer
