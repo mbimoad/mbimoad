@@ -3,7 +3,7 @@ My Name is Muhammad BimoAdjie Dwintoro, Iam a Bachelor Of Computer Science stude
 Welcome To My Profile !
 
 - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning Python and Mvc
+- 🌱 I’m currently learning All About Javascript Framework Like MERN, MEVN, MEAN
 - 📫 How to reach me: bimoadjie19@gmail.com
 
 ### Here is my stats
