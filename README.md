@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 My name is **Muhammad BimoAdjie Dwintoro**, a Bachelor's degree holder in Computer Science from Mandiri University.
 
-- 💼 Currently working as an **IT Programmer** at **TKG Taekwang Indonesia**
+- 💼 Currently working as an **IT Programmer** at **PT TKG Taekwang Indonesia**
 - 🔭 Previously worked as a **Freelancer**, delivering various web-based solutions
 - 🌱 Continuously learning Three JS and JavaScript frameworks like **React**, **Vue**
 - 📫 Reach me at: **bimoadjie19@gmail.com**
